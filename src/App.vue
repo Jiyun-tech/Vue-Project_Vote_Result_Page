@@ -26,24 +26,25 @@
 
 nav {
   padding: 30px;
+  text-decoration-line: none;
 }
 
 nav a {
   font-weight: bold;
   color: #2c3e50;
+  text-decoration-line: none;
 }
 
 nav a.router-link-exact-active {
   color: #42b983;
+  text-decoration-line: none;
 }
 
 a:link {
   color: black;
-  text-decoration-line: none;
 }
 a:visited {
   color: black;
-  text-decoration-line: none;
 }
 
 body{
