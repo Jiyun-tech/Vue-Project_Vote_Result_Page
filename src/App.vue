@@ -2,7 +2,7 @@
   <nav>
     <div class="menu"><router-link to="/">후보등록</router-link></div>
     <div class="menu"><router-link to="/voting">투표</router-link></div>
-    <div class="menu"><router-link to="/result">결과보기</router-link></div>
+    <div class="menu"><router-link to="/result">개표결과</router-link></div>
   </nav>
   <router-view />
 </template>
