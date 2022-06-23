@@ -22,7 +22,6 @@ export default {
   },
   methods: {
     getPercent: function(n) {
-    //   console.log("n : ", n);
       let percent = n * 7;
     //   console.log("percent : ", percent);
       return percent;
